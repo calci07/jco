@@ -1,0 +1,16 @@
+.logo {
+  height: 11vh;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+.top-line {
+  position: absolute;
+  left: 0;
+  margin-left: 180px;
+  top: 0;
+  margin-top: 25px;
+  height: 80px;
+  width: 2px;
+  background-color: #f2682a;
+}
